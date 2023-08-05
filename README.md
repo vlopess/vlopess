@@ -23,6 +23,7 @@
 </p>
 <a href = "mailto:victorldev8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"</a>
 <a href = "https://medium.com/@Victorldev" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href = "https://website.vlopess.repl.co/" target="_blank"><img src="https://img.shields.io/badge/-Meu Site-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
 <img src="https://komarev.com/ghpvc/?username=vlopess&label=Profile%20views&color=0e75b6&style=flat" alt="vlopess" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlopess&hide_progress=true&theme=dark"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vlopess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
