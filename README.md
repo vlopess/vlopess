@@ -28,8 +28,8 @@
 <img src="https://komarev.com/ghpvc/?username=vlopess&label=Profile%20views&color=0e75b6&style=flat" alt="vlopess" />
 
 <div align="justify">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlopess&hide_progress=true&theme=dark"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=vlopess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlopess&hide_progress=true&theme=dark"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=vlopess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
   
