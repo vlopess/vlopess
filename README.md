@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Javascript, HTML and CSS.**
 - ⚡ I love watching movies, I think **they make life better**
 <br>
-<a href = "[https://website.vlopess.repl.co/](https://victorpersonalsite.vlopess.repl.co/)" target="_blank"><img src="https://img.shields.io/badge/-Visite o meu site(EM PRODUÇÃO)-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
+<a href = "[https://victorpersonalsite.vlopess.repl.co/]" target="_blank"><img src="https://img.shields.io/badge/-Visite o meu site (EM PRODUÇÃO)-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
 </p>
 <h3>Languages, Frameworks, Tools and Learning:</h3>
 <p>  
