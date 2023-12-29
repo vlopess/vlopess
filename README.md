@@ -5,8 +5,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/121266927/212063189-82aba6a1-9c29-4dde-93fe-843df2bf5ef6.gif" width="400" height="320"/> 
 <p>
   
-- 🌱 I’m currently learning **Javascript, HTML and CSS.**
-- ⚡ I love watching movies, I think **they make life better**
+- 🐧 I love watching movies, I think **they make life better**
 <br>
 <div align="center">
   <a href = "https://victorpersonalsite.vlopess.repl.co/" target="_blank"><img src="https://img.shields.io/badge/-(SITE EM PRODUÇÃO)-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
