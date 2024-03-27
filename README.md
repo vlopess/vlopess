@@ -8,6 +8,8 @@
 
   
 - 🐧 I love watching movies, I think **they make life better**
+
+- 🐧 Join the world 19 years ago
 <br>
 <div align="center">
   <a href = "https://victorpersonalsite.vlopess.repl.co/" target="_blank"><img src="https://img.shields.io/badge/-(SITE EM PRODUÇÃO)-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
