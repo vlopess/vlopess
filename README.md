@@ -19,19 +19,19 @@
 <br>
 </p>
 <h3>Languages, Frameworks, Tools, Learning and Etc:</h3>
-<p >
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,py,flask,django,spring,java,linux,ubuntu" align="left" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,py,flask,django,spring,java,linux,ubuntu"/>
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,html,css,jquery,postgres,git,firebase,cs" align="left" />
+    <img src="https://skillicons.dev/icons?i=c,js,html,css,jquery,postgres,git,firebase,cs" />
   </a>
 </p>
 
 # 
-<div align="center">
+<div>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlopess&layout=compact&hide_progress=false&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=vlopess&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
