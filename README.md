@@ -1,20 +1,17 @@
 <h1 align="center">👨‍💻 Olá, eu sou Victor👋</h1>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/121266927/212063189-82aba6a1-9c29-4dde-93fe-843df2bf5ef6.gif" width="300" height="300"/> 
-<p>
-
-
-  
-<div style="width: 100%;">
+<div style="width: 10px;">
   
   - 🐧 I love watching movies, I think **they make life better**
 
   - 🐧 Join the world 19 years ago
 </div>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/121266927/212063189-82aba6a1-9c29-4dde-93fe-843df2bf5ef6.gif" width="300" height="300"/> 
+<p>  
 <div>
   <a href = "mailto:victorldev8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"</a>
-<a href = "https://medium.com/@Victorldev" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-<a href = "https://victorpersonalsite.vlopess.repl.co/" target="_blank"><img src="https://img.shields.io/badge/-(SITE EM PRODUÇÃO)-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
-<img src="https://komarev.com/ghpvc/?username=vlopess&label=Profile%20views&color=0e75b6&style=flat" alt="vlopess" />
+  <a href = "https://medium.com/@Victorldev" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank">   </a>
+  <a href = "https://victorpersonalsite.vlopess.repl.co/" target="_blank"><img src="https://img.shields.io/badge/-(SITE EM PRODUÇÃO)-%23333?style=for-the-badge&logoColor=white"   target="_blank"></a>
+  <img src="https://komarev.com/ghpvc/?username=vlopess&label=Profile%20views&color=0e75b6&style=flat" alt="vlopess" />
 </div>
 <br>
 </p>
