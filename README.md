@@ -2,7 +2,7 @@
 
 
 <h1 align="center">👨‍💻 Olá, eu sou Victor👋</h1>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/121266927/212063189-82aba6a1-9c29-4dde-93fe-843df2bf5ef6.gif" width="380" height="300"/> 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/121266927/212063189-82aba6a1-9c29-4dde-93fe-843df2bf5ef6.gif" width="360" height="280"/> 
 <p>
 
 
