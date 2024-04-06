@@ -2,7 +2,7 @@
 
 
 <h1 align="center">👨‍💻 Olá, eu sou Victor👋</h1>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/121266927/212063189-82aba6a1-9c29-4dde-93fe-843df2bf5ef6.gif" width="400" height="320"/> 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/121266927/212063189-82aba6a1-9c29-4dde-93fe-843df2bf5ef6.gif" width="380" height="300"/> 
 <p>
 
 
@@ -34,7 +34,7 @@
 
 # 
 <div align="justify">
-  <img  height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlopess&layout=compact&hide_progress=false&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlopess&layout=compact&hide_progress=false&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=vlopess&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
 
