@@ -4,7 +4,7 @@
 
 
   
-<div style="display: block">
+<div style="width: 100%;">
   
   - 🐧 I love watching movies, I think **they make life better**
 
