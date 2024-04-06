@@ -18,7 +18,7 @@
   <h3>Languages, Frameworks, Tools, Learning and Etc:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,py,flask,androidstudio,spring,java,linux,ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,py,flask,spring,java,linux,ubuntu"/>
   </a>
 </p>
 <p>
