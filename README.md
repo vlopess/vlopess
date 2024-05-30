@@ -34,4 +34,9 @@
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=vlopess&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
 
+[comment]: <div align="center">
+[comment]: <a href="https://open.spotify.com/user/31amhvt36qa74qibs5fewb5tltbi">
+[comment]:<img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=31amhvt36qa74qibs5fewb5tltbi&width=890&count=5">
+[comment]:</div>
+
   
