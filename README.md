@@ -18,12 +18,12 @@
   <h3>Languages, Frameworks, Tools, Learning and Etc:</h3>
 <p style="background-color:blue">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,py,flask,spring,java,angular,linux,ubuntu,idea"/>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,py,flask,spring,java,angular,react,linux,ubuntu,idea"/>
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,c,js,html,css,jquery,postgres,git,firebase,cs,vscode" />
+    <img src="https://skillicons.dev/icons?i=vim,c,ts,js,html,css,jquery,postgres,git,firebase,cs,vscode" />
   </a>
 </p>
 </div>
