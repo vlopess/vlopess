@@ -1,4 +1,5 @@
 <h1 align="center">👨‍💻 Olá, eu sou Victor👋</h1>
+
 <div align="center">
   
    🐧 I love watching movies, I think **they make life better**
@@ -15,17 +16,19 @@
 <br>
 </p>
 <div align="center">
-  <h3>Languages, Frameworks, Tools, Learning and Etc:</h3>
-<p style="background-color:blue">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,py,flask,spring,java,angular,react,linux,ubuntu,idea"/>
-  </a>
-</p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,c,ts,js,html,css,jquery,postgres,git,firebase,cs,vscode" />
-  </a>
-</p>
+  
+## ⚡ Technologies
+
+|                  |                                                                                                    |
+|:----------------:|:--------------------------------------------------------------------------------------------------:|
+|    `BACKEND`     |  <img src="https://skillicons.dev/icons?i=spring,java,cs,net,py,flask"/>                           |
+|    `FRONTEND`    |  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,jquery" />                  |
+|    `MOBILE`      |  <img src="https://skillicons.dev/icons?i=flutter,dart" />                                         |
+|    `DATABASE`    |  <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" />                           |
+|    `IDEs & TOOLS`|  <img src="https://skillicons.dev/icons?i=idea,vscode,git,vim,linux,ubuntu" />                     |
+|                  |                                                                                                    |
+
+
 </div>
 
 # 
