@@ -25,7 +25,7 @@
 |    `FRONTEND`    |  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,jquery" />                  |
 |    `MOBILE`      |  <img src="https://skillicons.dev/icons?i=flutter,dart" />                                         |
 |    `DATABASE`    |  <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" />                           |
-|    `IDEs & TOOLS`|  <img src="https://skillicons.dev/icons?i=idea,vscode,git,vim,linux,ubuntu" />                     |
+|    `IDEs & TOOLS`|  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,git,vim,linux,ubuntu" />                     |
 |                  |                                                                                                    |
 
 
