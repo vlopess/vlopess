@@ -1,11 +1,12 @@
 <h1 align="center">👨‍💻 Olá, eu sou Victor👋</h1>
-
 <div align="center">
+  <img src="https://play-lh.googleusercontent.com/ve-OItbqUx6JriyfPbrCPCq6aGilYaMOqun4V6l0ILib_8vnHuJI5QH2w-SNI6yZKuc=w240-h480" alt="Descrição" height='150px'>
   
-   🐧 I love watching movies, I think **they make life better**
-
-   🐧 Join the world 20 years ago
+  🐧 **Eu sou apenas um cara tranquilo que programa, gosta de filmes e música.**    
+  🌠 **Join the world 20 years ago.**
 </div>
+
+
 <p>  
 <div align="center">
   <a href = "mailto:victorldev8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"</a>
