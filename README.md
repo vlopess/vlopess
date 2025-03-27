@@ -1,7 +1,6 @@
 <h1 align="center">👨‍💻 Olá, eu sou Victor👋</h1>
 <div align="center">
-  <img src="https://play-lh.googleusercontent.com/ve-OItbqUx6JriyfPbrCPCq6aGilYaMOqun4V6l0ILib_8vnHuJI5QH2w-SNI6yZKuc=w240-h480" alt="Descrição" height='150px'>
-  
+
   🐧 **Eu sou apenas um cara tranquilo que programa, gosta de filmes e música.**    
   🌠 **Join the world 20 years ago.**
 </div>
