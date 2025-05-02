@@ -38,7 +38,7 @@
 </div>
 
 ### Blog last post
-- [The Factory Constructor in Dart and Flutter](https://medium.com/@Victorldev/the-factory-constructor-in-dart-and-flutter-8adb8150ba4b)
+- [Dynamic Interfaces with Server-Driven UI for Mobile](https://medium.com/@Victorldev/dynamic-interfaces-with-server-driven-ui-for-mobile-bf934b8b3c4f)
 
 [comment]: <div align="center">
 [comment]: <a href="https://open.spotify.com/user/31amhvt36qa74qibs5fewb5tltbi">
