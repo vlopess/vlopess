@@ -38,7 +38,7 @@
 </div>
 
 ### Blog last post
-- [Dynamic Interfaces with Server-Driven UI for Mobile](https://medium.com/@Victorldev/dynamic-interfaces-with-server-driven-ui-for-mobile-bf934b8b3c4f)
+- [Asynchronous builders in Flutter: Analyzing FutureBuilder and StreamBuilder](https://medium.com/@Victorldev/asynchronous-builders-in-flutter-analyzing-futurebuilder-and-streambuilder-d3f8af3af88a)
 
 [comment]: <div align="center">
 [comment]: <a href="https://open.spotify.com/user/31amhvt36qa74qibs5fewb5tltbi">
