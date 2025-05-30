@@ -38,7 +38,7 @@
 </div>
 
 ### Blog last post
-- [Asynchronous builders in Flutter: Analyzing FutureBuilder and StreamBuilder](https://medium.com/@Victorldev/asynchronous-builders-in-flutter-analyzing-futurebuilder-and-streambuilder-d3f8af3af88a)
+- [Automating Flutter Apps: An Introduction to CI/CD Pipelines](https://medium.com/@Victorldev/automating-flutter-apps-an-introduction-to-ci-cd-pipelines-197919d0e886)
 
 [comment]: <div align="center">
 [comment]: <a href="https://open.spotify.com/user/31amhvt36qa74qibs5fewb5tltbi">
