@@ -2,7 +2,7 @@
 <div align="center">
 
   🐧 **Eu sou apenas um cara tranquilo que programa, gosta de filmes e música.**    
-  🌠 **Join the world 20 years ago.**
+  🌠 **Join the world 21 years ago.**
 </div>
 
 
