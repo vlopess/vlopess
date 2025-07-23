@@ -1,13 +1,13 @@
-<h1 align="center">👨‍💻 Olá, eu sou Victor👋</h1>
+<h1 align="center">👨‍💻 Hello, I'm Victor👋</h1>
 <div align="center">
 
-  🐧 **I'm just a tranquil guy who programs, likes movies and music.**    
+  🐧 **I'm just a tranquil guy who programs, likes movies and music.**
   
   🌠 **Join the world 21 years ago.**
 
   🌱 **I’m currently learning php and Laravel**
 
-  📝 **I regularly write articles on** [Medium](https://medium.com/@Victorldev), 
+  📝 **I regularly write articles on** [Medium](https://medium.com/@Victorldev), [CodeLegion](https://coderlegion.com/user/Victor+Lopes) and [Differ](https://differ.blog/me).
   
 </div>
 
@@ -15,8 +15,7 @@
 <p>  
 <div align="center">
   <a href = "mailto:victorldev8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"</a>
-  <a href = "https://medium.com/@Victorldev" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank">   </a>
-  <a href = "https://vlopesdev.me" target="_blank"><img src="https://img.shields.io/badge/-VISITE MEU SITE-%23333?style=for-the-badge&logoColor=white"   target="_blank"></a>
+  <a href = "https://vlopesdev.me" target="_blank"><img src="https://img.shields.io/badge/-Visit my website-%23333?style=for-the-badge&logoColor=white"   target="_blank"></a>
   <img src="https://komarev.com/ghpvc/?username=vlopess&label=Profile%20views&color=0e75b6&style=flat" alt="vlopess" />
 </div>
 <br>
@@ -43,7 +42,7 @@
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=vlopess&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
 
-### Blog last post
+### 📰 Lastest posts
 <!-- BLOG-POST-LIST:START -->
 - [Architectural Analysis of JUnit](https://blog.stackademic.com/architectural-analysis-of-junit-d9472f9bf79b?source=rss-6c5acd079cd2------2)
 - [Automating Flutter Apps: An Introduction to CI/CD Pipelines](https://medium.com/@Victorldev/automating-flutter-apps-an-introduction-to-ci-cd-pipelines-197919d0e886?source=rss-6c5acd079cd2------2)
