@@ -1,8 +1,14 @@
 <h1 align="center">👨‍💻 Olá, eu sou Victor👋</h1>
 <div align="center">
 
-  🐧 **Eu sou apenas um cara tranquilo que programa, gosta de filmes e música.**    
+  🐧 **I'm just a tranquil guy who programs, likes movies and music.**    
+  
   🌠 **Join the world 21 years ago.**
+
+  🌱 **I’m currently learning php and Laravel**
+
+  📝 **I regularly write articles on** [Medium](https://medium.com/@Victorldev), 
+  
 </div>
 
 
@@ -21,11 +27,11 @@
 
 |                  |                                                                                                    |
 |:----------------:|:--------------------------------------------------------------------------------------------------:|
-|    `BACKEND`     |  <img src="https://skillicons.dev/icons?i=spring,java,cs,net,py,flask"/>                           |
+|    `BACKEND`     |  <img src="https://skillicons.dev/icons?i=spring,java,cs,net,py,flask,php,laravel"/>               |
 |    `FRONTEND`    |  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,jquery" />                  |
 |    `MOBILE`      |  <img src="https://skillicons.dev/icons?i=flutter,dart" />                                         |
 |    `DATABASE`    |  <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" />                           |
-|    `IDEs & TOOLS`|  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,git,vim,linux,ubuntu" />                     |
+|    `IDEs & TOOLS`|  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,git,vim,linux,ubuntu" />       |
 |                  |                                                                                                    |
 
 
@@ -38,7 +44,8 @@
 </div>
 
 ### Blog last post
-- [Automating Flutter Apps: An Introduction to CI/CD Pipelines](https://medium.com/@Victorldev/automating-flutter-apps-an-introduction-to-ci-cd-pipelines-197919d0e886)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [comment]: <div align="center">
 [comment]: <a href="https://open.spotify.com/user/31amhvt36qa74qibs5fewb5tltbi">
