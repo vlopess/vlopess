@@ -36,12 +36,6 @@
 
 </div>
 
-# 
-<div align="center">
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlopess&layout=compact&hide_progress=false&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=vlopess&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
-</div>
-
 ### 📰 Lastest posts
 <!-- BLOG-POST-LIST:START -->
 - [Architectural Analysis of JUnit](https://blog.stackademic.com/architectural-analysis-of-junit-d9472f9bf79b?source=rss-6c5acd079cd2------2)
@@ -50,6 +44,12 @@
 - [Asynchronous builders in Flutter: Analyzing FutureBuilder and StreamBuilder](https://medium.com/@Victorldev/asynchronous-builders-in-flutter-analyzing-futurebuilder-and-streambuilder-d3f8af3af88a?source=rss-6c5acd079cd2------2)
 - [Understanding Future and Stream in Dart](https://medium.com/@Victorldev/understanding-future-and-stream-in-dart-cba0842a8470?source=rss-6c5acd079cd2------2)
 <!-- BLOG-POST-LIST:END -->
+
+# 
+<div align="center">
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlopess&layout=compact&hide_progress=false&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=vlopess&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
+</div>
 
 [comment]: <div align="center">
 [comment]: <a href="https://open.spotify.com/user/31amhvt36qa74qibs5fewb5tltbi">
