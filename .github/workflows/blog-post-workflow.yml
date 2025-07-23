@@ -13,7 +13,5 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
-        uses: victor/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@Victorldev"
