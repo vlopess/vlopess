@@ -45,6 +45,11 @@
 
 ### Blog last post
 <!-- BLOG-POST-LIST:START -->
+- [Architectural Analysis of JUnit](https://blog.stackademic.com/architectural-analysis-of-junit-d9472f9bf79b?source=rss-6c5acd079cd2------2)
+- [Automating Flutter Apps: An Introduction to CI/CD Pipelines](https://medium.com/@Victorldev/automating-flutter-apps-an-introduction-to-ci-cd-pipelines-197919d0e886?source=rss-6c5acd079cd2------2)
+- [Manipulating Lifecycle of Stateful Widgets in Flutter](https://medium.com/@Victorldev/manipulating-lifecycle-of-stateful-widgets-in-flutter-e894a83d7bf0?source=rss-6c5acd079cd2------2)
+- [Asynchronous builders in Flutter: Analyzing FutureBuilder and StreamBuilder](https://medium.com/@Victorldev/asynchronous-builders-in-flutter-analyzing-futurebuilder-and-streambuilder-d3f8af3af88a?source=rss-6c5acd079cd2------2)
+- [Understanding Future and Stream in Dart](https://medium.com/@Victorldev/understanding-future-and-stream-in-dart-cba0842a8470?source=rss-6c5acd079cd2------2)
 <!-- BLOG-POST-LIST:END -->
 
 [comment]: <div align="center">
