@@ -25,7 +25,7 @@
 
 |                  |                                                                                                    |
 |:----------------:|:--------------------------------------------------------------------------------------------------:|
-|    `BACKEND`     |  <img src="https://skillicons.dev/icons?i=spring,java,cs,net,flask,py,lavarel,php"/>               |
+|    `BACKEND`     |  <img src="https://skillicons.dev/icons?i=spring,java,cs,net,flask,py,laravel,php"/>               |
 |    `FRONTEND`    |  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,jquery" />                  |
 |    `MOBILE`      |  <img src="https://skillicons.dev/icons?i=flutter,dart" />                                         |
 |    `DATABASE`    |  <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" />                           |
