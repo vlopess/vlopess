@@ -14,6 +14,11 @@
 
 <p>  
 <div align="center">
+  <a href = "https://kristnotes.com/victor" target="_blank">
+      <img width="60" height="60" alt="Minimalist_Purple_Woman_Icon-removebg-preview" src="https://github.com/user-attachments/assets/3abfce86-e521-415d-aac6-a32638aab62d" />
+  </a>
+</div>
+<div align="center">
   <a href = "https://vlopesdev.me" target="_blank"><img src="https://img.shields.io/badge/-Visit my website-%23333?style=for-the-badge&logoColor=white"   target="_blank"></a>
   <img src="https://komarev.com/ghpvc/?username=vlopess&label=Profile%20views&color=0e75b6&style=flat" alt="vlopess" />
 </div>
