@@ -5,7 +5,7 @@
   
   🌠 **Join the world 21 years ago.**
 
-  🌱 **I’m currently learning php and Laravel**
+  🌱 **I’m currently learning about vibe coding and prompt engineering**
 
   📝 **I regularly write articles on** [Medium](https://medium.com/@Victorldev), [CodeLegion](https://coderlegion.com/user/Victor+Lopes) and [Differ](https://differ.blog/me).
   
