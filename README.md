@@ -29,15 +29,6 @@
 - ✍️ I write technical articles about software architecture, Flutter internals, and backend patterns
 - 🎬 Movies and music enthusiast when I step away from the keyboard
 
-<!-- Snake animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vlopess/vlopess/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vlopess/vlopess/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/vlopess/vlopess/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
 ---
 
 ## ⚡ Tech Stack
@@ -53,15 +44,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlopess&layout=compact&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlopess&layout=compact&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vlopess&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
-</div>
-
-<br/>
-
 <!-- Streak -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vlopess&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
