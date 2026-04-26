@@ -35,11 +35,11 @@
 
 | Layer | Technologies |
 |:---:|:---|
-| **Backend** | <img src="https://skillicons.dev/icons?i=spring,java,net,cs,flask,py,deno"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,java,net,cs,flask,fastapi,py,deno"/> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,jquery,vue"/> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart"/> |
 | **Database** | <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,git,vim,linux,ubuntu,ai"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,git,vim,linux,figma,ai"/> |
 
 ---
 
