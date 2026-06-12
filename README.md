@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Victor 👋</h1>
 
 <p align="center">
-  Backend & Mobile developer • Technical writer • 21 y/o building things that matter
+  Backend & Mobile developer • Technical writer • 22 y/o building things that matter
 </p>
 <!-- Typing animation -->
 <p align="center">
