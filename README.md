@@ -56,11 +56,11 @@
 ## 📰 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflection in Dart](https://blog.stackademic.com/reflection-in-dart-c98248a7a4ea?source=rss-6c5acd079cd2------2)
 - [Reflection architectural pattern](https://blog.stackademic.com/reflection-architectural-pattern-2249a52a2c81?source=rss-6c5acd079cd2------2)
 - [Software Quality Assurance](https://blog.stackademic.com/software-quality-assurance-1a39e9e928dc?source=rss-6c5acd079cd2------2)
 - [Architectural Analysis of JUnit](https://blog.stackademic.com/architectural-analysis-of-junit-d9472f9bf79b?source=rss-6c5acd079cd2------2)
 - [Automating Flutter Apps: An Introduction to CI/CD Pipelines](https://medium.com/@Victorldev/automating-flutter-apps-an-introduction-to-ci-cd-pipelines-197919d0e886?source=rss-6c5acd079cd2------2)
-- [Manipulating Lifecycle of Stateful Widgets in Flutter](https://medium.com/@Victorldev/manipulating-lifecycle-of-stateful-widgets-in-flutter-e894a83d7bf0?source=rss-6c5acd079cd2------2)
 <!-- BLOG-POST-LIST:END -->
 
 > ✍️ I also publish on [CodeLegion](https://coderlegion.com/user/Victor+Lopes) and [Differ](https://differ.blog/me)
